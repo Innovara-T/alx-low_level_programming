@@ -1,10 +1,9 @@
 #include <stdio.h>
-/*
+
+/**
  * main - Entry point
  *
- * Description: This function prints the size of various types on the computer..
- *
- * Return - Always success (0)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
