@@ -2,7 +2,7 @@
 /*
  * main - Entry point
  *
- * Description: This program prints the size of daa types in c.
+ * Description: This function prints the size of daa types in c.
  *
  * Return - Always success (0)
  */
